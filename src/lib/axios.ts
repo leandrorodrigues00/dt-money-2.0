@@ -1,5 +1,6 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "https://dt-money-json-server.vercel.app/",
+  baseURL:
+    "https://my-json-server.typicode.com/leandrorodrigues00/dt-money-2.0",
 });
