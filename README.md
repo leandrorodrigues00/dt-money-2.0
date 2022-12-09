@@ -12,7 +12,7 @@
 <p align="center">
  
  
-<img alt="project preview" src="./public/desktop-preview.png" width="75%"   >  
+<img alt="project preview" src="./src/assets/desktop-preview.jpg" width="75%"   >  
 </p>
 
 ## 👩‍💻 About the project
@@ -21,7 +21,9 @@ Personal Finance Expenses Control Application, with a balancing system, creation
 
 Project built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, Where the objective was the consumption of an API and the improvement of performance in ReactJS.
 
-[click here, see closer](dt-money-2-0-cs.vercel.app/) 😉
+[click here, see closer](https://dt-money-2-0-cs.vercel.app/) 😉
+
+<b>Note</b>: The application uses a Fake Online REST server, in API error situations, run the local server, `npm run dev-server `
 
 ## 🔖 Layout
 
@@ -40,8 +42,6 @@ You can view the project layout through the links below:
 - [React Router](https://reactrouter.com/en/main)
 - [json-server](https://github.com/typicode/json-server)
 - [axios](https://axios-http.com/ptbr/docs/intro)
-
-
 
 ## 💻 Getting started
 
